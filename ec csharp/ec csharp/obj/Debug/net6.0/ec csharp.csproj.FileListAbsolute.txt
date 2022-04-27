@@ -1,0 +1,5 @@
+C:\Users\onurs\OneDrive\Masaüstü\ec csharp\ec csharp\ec csharp\obj\Debug\net6.0\ec csharp.csproj.AssemblyReference.cache
+C:\Users\onurs\OneDrive\Masaüstü\ec csharp\ec csharp\ec csharp\obj\Debug\net6.0\ec csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurs\OneDrive\Masaüstü\ec csharp\ec csharp\ec csharp\obj\Debug\net6.0\ec csharp.AssemblyInfoInputs.cache
+C:\Users\onurs\OneDrive\Masaüstü\ec csharp\ec csharp\ec csharp\obj\Debug\net6.0\ec csharp.AssemblyInfo.cs
+C:\Users\onurs\OneDrive\Masaüstü\ec csharp\ec csharp\ec csharp\obj\Debug\net6.0\ec csharp.csproj.CoreCompileInputs.cache
